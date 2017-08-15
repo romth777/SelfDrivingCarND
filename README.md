@@ -9,6 +9,6 @@ This is my summary of Udacity's SelfDrivingCarND linking with each repository.
  * [Lab Transfer Learning with VGG, Inception and ResNet](https://github.com/romth777/CarND-Transfer-Learning-Lab)
  * [Lab AlexNet Feature Extraction](https://github.com/romth777/CarND-Alexnet-Feature-Extraction)
  * [Project 3 Behaviorial Cloning Project](https://github.com/romth777/CarND-Behavioral-Cloning-P3)
- * [Lab Camera Calibration with OpenCV (This is not my work.)](https://github.com/romth777/CarND-Camera-Calibration/blob/master/camera_calibration.ipynb)
+ * [Lab Camera Calibration with OpenCV (This is not my work.)](https://github.com/romth777/CarND-Camera-Calibration/blob/master)
  * [Project 4 Advanced Lane Finding](https://github.com/romth777/CarND-Advanced-Lane-Lines)
  * [Project 5 Vehicle Detection and Tracking](https://github.com/romth777/CarND-Vehicle-Detection)
